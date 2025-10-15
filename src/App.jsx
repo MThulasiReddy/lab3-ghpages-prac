@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <h1>frontend gh-pages</h1>
+      <h1>deployed git gh-pages EC2</h1>
     </>
   )
 }

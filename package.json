@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mthulasireddy.github.io/lab3-ghpages-prac/",
+  "homepage": "https://mthulasireddy.github.io/reactapp105-gitactions/", 
   "scripts": {
     "dev": "vite",
     "build": "vite build",
